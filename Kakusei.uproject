@@ -288,4 +288,13 @@
 		},
 		{
 			"Name": "Bridge",
-			"Enabled": 
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"EpicSampleNameHash": "451731683"
+}
